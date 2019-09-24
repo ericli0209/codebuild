@@ -1,0 +1,3 @@
+[submodule "codebuild_labs"]
+	path = codebuild_labs
+	url = https://github.com/ericli0209/codebuild_labs.git
